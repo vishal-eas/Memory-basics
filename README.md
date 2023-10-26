@@ -78,7 +78,7 @@ Total Power consumed by CMOS Inverter = 202.57 μW (PMOS) + 202.83 μW (NMOS) </
 
 ## 6T
 - Desing and Analysis of 6T SRAM Cell.
-- Perform Static-noise margin analysis of the same refer to this ["Static-noise margin analysis of MOS SRAM cells"](https://ieeexplore.ieee.org/document/1052809) and [Link](https://engineering.purdue.edu/~vlsi/ECE559_Fall09/HW/HW6_Solution.pdf)
+- Perform Static-noise margin analysis of the same refer to this ["Static-noise margin analysis of MOS SRAM cells"](https://ieeexplore.ieee.org/document/1052809) 
 
 Schematic Diagram :
 - Transient Analysis of 6T SRAM Cell </br>
@@ -97,7 +97,7 @@ Resultant Waveform :
 
 ## 8/10 T
 - Desing and Analysis of 8T and 10T SRAM Cell.
-- Perform Static-noise margin analysis of the same refer to this ["Static-noise margin analysis of MOS SRAM cells"](https://ieeexplore.ieee.org/document/1052809) and [Link](https://engineering.purdue.edu/~vlsi/ECE559_Fall09/HW/HW6_Solution.pdf)
+- Perform Static-noise margin analysis of the same refer to this ["Static-noise margin analysis of MOS SRAM cells"](https://ieeexplore.ieee.org/document/1052809) 
 
 Schematic Diagram :
 - Transient Analysis of 8T SRAM Cell </br>
