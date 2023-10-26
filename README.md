@@ -10,7 +10,7 @@
 
 
 
-## LT spice basics
+## LTbasics
 - Understand basic analysis types in LTSpice.
 - Run an inverter transient and DC analysis.
 - Assignment :
@@ -95,7 +95,7 @@ Resultant Waveform :
 <img src = "6T/op_sram6t_snm_3.jpg" width="70%" height="70%"> </br>
 
 
-## 8/10 T
+## 8/10T
 - Desing and Analysis of 8T and 10T SRAM Cell.
 - Perform Static-noise margin analysis of the same refer to this ["Static-noise margin analysis of MOS SRAM cells"](https://ieeexplore.ieee.org/document/1052809) 
 
